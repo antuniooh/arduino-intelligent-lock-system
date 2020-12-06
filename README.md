@@ -8,7 +8,7 @@ Projeto semestral da matéria de Computação Móvel, ministrada no Centro Unive
 
 Abaixo há um link de um vídeo postado no youtube demonstrando o funcionamento geral do sistema
 
-[![Watch the video](https://i.ytimg.com/an_webp/e0DNju123_I/mqdefault_6s.webp?du=3000&sqp=CN6mi_4F&rs=AOn4CLBDyfsxLJEaJ3tnnGbOFXp1xEEtIQ)](https://www.youtube.com/watch?v=NMv0SSdDm-c&t=19s)
+[![Watch the video](https://i.ytimg.com/an_webp/e0DNju123_I/mqdefault_6s.webp?du=3000&sqp=CKD5sP4F&rs=AOn4CLAMah01qeWSAXBcbkoYBFLMHYN5SQ)](https://www.youtube.com/watch?v=e0DNju123_I&t=2s&ab_channel=GustavoMuniz)
 
 ## Execução
 
