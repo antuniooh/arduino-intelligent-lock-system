@@ -42,7 +42,7 @@
 ## 💻 About The Project
 It consists of an intelligent locking system for doors and windows, developed for Arduino. Light, temperature, smoke and password keypad sensors are used to automatically determine the opening and closing of these locks.
 
-![app](https://github.com/antuniooh/arduino-intelligent-lock-system/blob/master/images/board.png)
+![app](https://github.com/antuniooh/arduino-intelligent-lock-system/blob/main/images/board.png)
 
 
 <!-- HOW TO RUN -->
